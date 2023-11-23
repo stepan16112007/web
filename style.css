@@ -1,7 +1,6 @@
-img{
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
+#first{
+    display: flex;
+    justify-content: center;
 }
 a{ 
     display: block;
